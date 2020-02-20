@@ -1,0 +1,1 @@
+I noticed that in incognito mode, the number of cookies decreased drastically. I was surprised by how many cookies are being tracked by just visiting one website. History was not existent, as expected. Finally, I think incognito mode might be great for testing to switch to a different view. 
